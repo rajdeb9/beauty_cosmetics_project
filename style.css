@@ -27,7 +27,7 @@ body {
 }
             /* section-one navbar start */
 .navbar-area {
-    width: 100vw;
+    width: 100%;
    
     background-color: var(--nav-bg);
 }  
@@ -435,6 +435,7 @@ body {
          /* sign up section end  */
          /* footer area start */
 .footer-area {
+    width:100%;
     background-color: var(--nav-bg);
     margin-top: 11rem;
 }   
